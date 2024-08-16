@@ -6,7 +6,7 @@
 반응형웹으로 구현하려고 제작
 
 ### 제작 프로그램 및 언어
-* photoshop/illustrator/ figma/html5/css3/javascripts/jquery
+* photoshop/illustrator/ figma/html5/css3/javascript/jquery
 
 ### 제작페이지 구성
 * index.html(main)
